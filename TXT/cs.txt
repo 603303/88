@@ -1,5 +1,6 @@
 开机音乐,#genre#
 深蹲,https://raw.giteeusercontent.com/j3333/603/raw/3/ZQG/JK/KZ/shendun.mp4
+深蹲1,https://raw.giteeusercontent.com/j3333/603/raw/3/ZQG/JK/KZ/shendun1.mp4
 抗阻运动01,https://raw.giteeusercontent.com/j3333/603/raw/3/ZQG/JK/KZ/kz01.mp4
 抗阻运动02,https://raw.giteeusercontent.com/j3333/603/raw/3/ZQG/JK/KZ/kz02.mp4
 抗阻运动03,https://raw.giteeusercontent.com/j3333/603/raw/3/ZQG/JK/KZ/KZ03.mp4
